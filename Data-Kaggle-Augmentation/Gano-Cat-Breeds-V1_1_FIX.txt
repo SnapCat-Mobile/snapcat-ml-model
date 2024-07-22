@@ -1,0 +1,7 @@
+You can use the original dataset from kaggle 
+https://www.kaggle.com/datasets/shawngano/gano-cat-breed-image-collection/
+
+but
+
+You can also download the data augmentation using this link gdrive
+https://drive.google.com/drive/folders/19ix5COwJvpmAMcWRIXlZrXCngih-ts7s?usp=sharing
